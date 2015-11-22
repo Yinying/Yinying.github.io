@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Thomas Zhao's Blog
-tagline: Make the Web Better
+title: Yinying PAN's Blog
+tagline: 日有寸进
 ---
 {% include JB/setup %}
 

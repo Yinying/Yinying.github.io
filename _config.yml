@@ -27,7 +27,7 @@ redcarpet:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Yinying Pan Blog
+title : Yinying PAN's Blog
 tagline: Site Tagline
 author :
   name : Yinying Pan
@@ -119,7 +119,7 @@ JB :
   comments :
     provider : duoshuo
     duoshuo:
-            short_name: thomaszhao
+            short_name: yinying
     #disqus :
     #  short_name : jekyllbootstrap
     #livefyre :
