@@ -9,9 +9,14 @@ tags: [sports, ski]
 ---
 {% include JB/setup %}
 
-test
+我的这个blog([Thomas's blog](http://www.thomaszhao.cn/))是基于[github pages](https://pages.github.com/)搭建的。
+本文记载这个blog搭建、配置过程。
+欢迎[fork](https://github.com/thomaszhao/thomaszhao.github.io)或基于本模板搭建你自己的blog。
 
 <!-- more -->
+
+总体概述
+===============================================================================
 
 ##初级
 不怕死，摔惨了
