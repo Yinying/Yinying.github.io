@@ -7,6 +7,12 @@ layout: post
 
 tags: [sports, ski]
 ---
+{% include JB/setup %}
+
+test
+
+<!-- more -->
+
 ##初级
 不怕死，摔惨了
 
