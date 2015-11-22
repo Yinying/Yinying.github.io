@@ -14,7 +14,7 @@ tags: [sports, ski]
 
 <!-- more -->
 
-#总体概述
+# 总体概述
 
 
 ## 目标
@@ -52,20 +52,20 @@ tags: [sports, ski]
 ## 高级
 立刃，大回转，小回转
 
-#chapter 2
+# chapter 2
 hehe
 
-##2.1
+## 2.1
 hehe
 
-###2.1.1
+### 2.1.1
 hehe
 
-#chapter 3
+# chapter 3
 haha
-##3.1
+## 3.1
 haha
-###3.1.1
+### 3.1.1
 haha
 
 
