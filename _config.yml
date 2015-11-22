@@ -44,8 +44,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.panyinying.com
-production_sitename : www.panyinying.com
+production_url : http://yinying.github.io
+production_sitename : yinying.github.io
 repository_url: https://github.com/Yinying/Yinying.github.io.git
 
 
