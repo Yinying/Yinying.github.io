@@ -1,7 +1,7 @@
 
-## [Thomas Zhao's Blog](http://www.thomaszhao.cn/)
+## [Yinying PAN's Blog](http://yinying.github.io/)
 
-This is my personal blog and wiki, I will post kinds of technology articles on it.
+This is my personal blog and wiki.
 
 It is built based on:
 
